@@ -10,7 +10,7 @@ import searchStringSelector from '../../redux/selectors';
 const StyledWrapper = styled.div`
   > *:not(*:last-of-type) {
     margin-bottom: 20px;
-  }r
+  }
 `;
 
 const Posts = ({ postOperationTypeFilter, posts }) => {
