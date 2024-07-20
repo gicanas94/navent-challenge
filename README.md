@@ -5,8 +5,8 @@ Navent interview challenge developed in React.js. This app uses Node.js version 
 **1.** Clone the repo:
 
 ```
-$ git clone git@github.com:gicanas94/ejercicio-navent.git
-$ cd ejercicio-navent
+$ git clone git@github.com:gicanas94/navent-challenge.git
+$ cd navent-challenge
 ```
 
 **2.** Install dependencies:
