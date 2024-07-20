@@ -1,6 +1,6 @@
 # Navent interview challenge
 
-Navent interview challenge developed in React.js. This project uses Node.js version 13.9.0.
+Navent interview challenge developed in React.js. This app uses Node.js version 13.9.0.
 
 **1.** Clone the repo:
 
