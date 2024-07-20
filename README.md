@@ -1,21 +1,21 @@
-# Ejercicio de Navent
+# Navent interview challenge
 
-Ejercicio de Navent desarrollado en React.js. Este proyecto utiliza la versión 13.9.0 de Node.js.
+Navent interview challenge developed in React.js. This project uses Node.js version 13.9.0.
 
-**1.** Clonar el repo:
+**1.** Clone the repo:
 
 ```
 $ git clone git@github.com:gicanas94/ejercicio-navent.git
 $ cd ejercicio-navent
 ```
 
-**2.** Instalar dependencias:
+**2.** Install dependencies:
 
 ```
 $ npm install
 ```
 
-**3.** Ejecutar la app:
+**3.** Run the app:
 
 ```
 $ npm start
